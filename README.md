@@ -50,7 +50,7 @@ You must have a working MySQL server available for this to work properly, it doe
 
 # Installation
 
-Automated builds of the image are available on [Docker Hub](https://hub.docker.com/tiredofit/mariadb-backup) and is the recommended method of installation.
+Automated builds of the image are available on [Docker Hub](https://hub.docker.com/r/burnacid/docker-mariadb-backup) and is the recommended method of installation.
 
 
 ```bash
