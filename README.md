@@ -5,8 +5,7 @@ This is a fork of the origional repo from [Dave Conroy](https://github.com/tired
 [![Build Status](https://img.shields.io/docker/automated/burnacid/docker-mariadb-backup)](https://hub.docker.com/r/burnacid/docker-mariadb-backup)
 [![Docker Pulls](https://img.shields.io/docker/pulls/burnacid/docker-mariadb-backup)](https://hub.docker.com/r/burnacid/docker-mariadb-backup)
 [![Docker Stars](https://img.shields.io/docker/stars/burnacid/docker-mariadb-backup)](https://hub.docker.com/r/burnacid/docker-mariadb-backup)
-[![Docker Layers](https://images.microbadger.com/badges/image/burnacid/docker-mariadb-backup)](https://hub.docker.com/r/burnacid/docker-mariadb-backup)
-[![Image Size](https://img.shields.io/microbadger/image-size/burnacid/docker-mariadb-backup)](https://hub.docker.com/r/burnacid/docker-mariadb-backup)
+[![Image Size](https://img.shields.io/docker/image-size/burnacid/docker-mariadb-backup)](https://hub.docker.com/r/burnacid/docker-mariadb-backup)
 
 # Introduction
 
