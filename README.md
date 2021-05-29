@@ -1,6 +1,6 @@
 # burnacid/docker-mariadb-backup
 
-This is a fork of the origional repo from [Dave Conroy](https://github.com/tiredofit) https://github.com/tiredofit/docker-mariadb-backup
+This is a fork of the origional repo from [Dave Conroy](https://github.com/tiredofit) https://github.com/tiredofit/docker-mariadb-backup as the official docker repo's are old
 
 [![Build Status](https://img.shields.io/docker/automated/burnacid/docker-mariadb-backup)](https://hub.docker.com/r/burnacid/docker-mariadb-backup)
 [![Docker Pulls](https://img.shields.io/docker/pulls/burnacid/docker-mariadb-backup)](https://hub.docker.com/r/burnacid/docker-mariadb-backup)
@@ -54,7 +54,7 @@ Automated builds of the image are available on [Docker Hub](https://hub.docker.c
 
 
 ```bash
-docker pull tiredofit/mariadb-backup
+docker pull burnacid/docker-mariadb-backup
 ```
 
 # Quick Start
